@@ -1,1 +1,1 @@
-# crawl_in_telegram_instagram_newsweb
+# crawl_in_telegram_instagram_webnews
