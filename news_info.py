@@ -59,16 +59,8 @@ class news:
 
         return text
 
-# news_obj = news('isna')
-# print(news_obj.news_data('99052820712'))
-# print(news_obj.news_headlines())
-
-
-# news_obj = news('isna')
-# print(news_obj.news_data('99052820712'))
-# print(news_obj.news_headlines())
-
-
-# news_obj = news('isna')
-# print(news_obj.news_data('99052820712'))
-# print(news_obj.news_headlines())
+    
+if __name__ == '__main__':
+    news_obj = news('isna')
+    print(news_obj.news_data('99052820712'))
+    print(news_obj.news_headlines())
