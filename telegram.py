@@ -6,8 +6,8 @@ import asyncio
 class telegram_API:
 
     def __init__(self):
-        self.api_id = 1666092
-        self.api_hash = 'd065482fad667bfef4be3f3e9657a743'
+        self.api_id = YOUR_API_ID
+        self.api_hash = 'YOUR_API_HASH'
 
 
     def teleg_ch_infos(self, username):
